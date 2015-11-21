@@ -1,2 +1,2 @@
-changing again added to  Mars blah blah 
-now making a change on my local computer
+Changing again added to  Mars blah blah 
+now making changes from within the github interface 
